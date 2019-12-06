@@ -11,5 +11,7 @@ module FormsLab
       erb :'pirates/new'
     end
 
+    post ''
+
   end
 end

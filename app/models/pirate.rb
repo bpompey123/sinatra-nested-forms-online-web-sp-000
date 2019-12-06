@@ -1,8 +1,8 @@
 class Pirate
   attr_reader :name, :weight, :height
-
-  def initialize
-
+  @@all = []
+  def initialize (params)
+    
   end
   
 end
